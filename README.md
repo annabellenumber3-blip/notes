@@ -1,0 +1,7 @@
+# notes
+Random notes and configuration snippets.
+
+## Usage
+```bash
+echo "hello"
+```
